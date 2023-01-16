@@ -6,6 +6,12 @@
 	font-family: 'BRITANIC';
 	src: url(../fonts/BRITANIC.TTF);
 }
+p{
+	 font-family: 'Montserrat Alternates' !important;
+} 
+h1,h2,h3,h4,h5,h6,a{
+	 font-family: 'Nunito' !important;
+}
 .scof {
 	float: left;
 	height: 100px;
