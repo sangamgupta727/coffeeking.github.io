@@ -1533,9 +1533,9 @@ label {
 .logo img {
 	float: left;
 	min-height: 0px;
-	width: 56%;
+	width: 49%;
 	margin-left: 0%;
-	margin: 0;
+	margin: 6px;
 }
 .sliderm {
 	float: left;
